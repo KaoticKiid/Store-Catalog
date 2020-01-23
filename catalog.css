@@ -60,6 +60,23 @@ img {
     border-radius: 20px;
 }
 
+body{
+    background-color: black;
+    color: white;
+}
+
+ 
+
+.selected{
+    border: 1px solid red;
+}
+
+
+.modal-body {
+    background-color: black;
+    width: 100%;
+    height: auto;
+}
 
 
  

@@ -17,3 +17,11 @@ h1 {
 .form-control {
     text-align: right;
 }
+
+body {
+    background-color: black;
+    color: white;
+}
+.hidden {
+    display: none;
+}
